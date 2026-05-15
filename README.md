@@ -38,7 +38,7 @@ Other Features: Geolocation, Real-time updates
 Add your project screenshots here
 
 🤝 Team Members
-Sudharsann CS
+Sreesanth S
 Darshan Rajeshkumar
 
 We collaborated by splitting responsibilities across frontend development, backend integration, and map functionalities.
@@ -51,7 +51,7 @@ SOS emergency alert feature
 Integration with government disaster systems
 ⚙️ How to Run the Project
 Clone the repository
-git clone https://github.com/sreesanth-s02/Enthral-Hackathon-2k26
+git clone https://github.com/sudharsann18/CrowdSourcing
 Open the project folder
 Add your Firebase configuration in firebase.js
 Run using Live Server (VS Code recommended)
