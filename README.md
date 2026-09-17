@@ -33,9 +33,6 @@ Other Features: Geolocation, Real-time updates
 
 👉 https://youtu.be/s1BiInAShng
 
-📸 Screenshots
-
-Add your project screenshots here
 
 🤝 Team Members
 Sreesanth S
